@@ -1,8 +1,14 @@
 Material list:
 
-Adafruit METRO 328  PID: 50
-Adafruit VS1053 Codec + MicroSD Breakout - MP3/WAV/MIDI/OGG  PID: 1381
-Adafruit Stereo 3.7W Class D Audio Amplifier - MAX98306 PID: 987
+- Adafruit METRO 328  PID: 50
+- Adafruit VS1053 Codec + MicroSD Breakout - MP3/WAV/MIDI/OGG  PID: 1381
+- Adafruit Stereo 3.7W Class D Audio Amplifier - MAX98306 PID: 987
+- 
+
+
+
+
+
 
 
 Code modified from: 
